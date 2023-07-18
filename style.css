@@ -1,0 +1,139 @@
+.fullBody{
+	margin-left: 100px;
+	margin-right: 100px;
+	font-family: 'Poppins', sans-serif;
+}
+
+.flex-container{
+	display: flex;
+}
+
+#btn1{
+	text-decoration: none;
+	background: navy;
+	color: dimgrey;
+	padding: 14px;
+	border: none;
+	border-radius:10px;
+}
+
+#btn1:hover{
+	text-decoration: none;
+	background: midnightblue;
+	color: white;
+	
+}
+
+.navbar{
+	margin-left: 11cm;
+	margin-top: 10px;
+}
+
+.navbar a{
+	text-decoration: none;
+	font-size: 16px;
+	color: black;
+	margin: 10px;
+}
+
+#btn2{
+	text-decoration: none;
+	background: orange;
+	color: white;
+	padding: 14px;
+	border: none;
+	border-radius:10px;
+}
+
+#btn3{
+	text-decoration: none;
+	background: midnightblue;
+	color: white;
+	padding: 14px;
+	border: none;
+	border-radius:10px;
+}
+
+
+.topsec{
+	text-align: center;
+}
+
+.topsec h1{
+	font-size: 45px;
+	font-weight: 800;
+	margin: 0px;
+
+}
+
+.topsec h2{
+	color: gold;
+	margin: 0px;
+
+}
+
+.grid-container{
+	display: grid;
+	grid-template-columns: 240px 240px;
+	justify-content: center;
+	grid-column-gap: 20px;
+	grid-row-gap: 20px;
+}
+
+.grid-container div{
+	background: azure;
+	padding: 10px;
+}
+
+.grid-container a{
+	text-decoration: none;
+	color: orange;
+}
+
+.half-width{
+	width: 50%;
+}
+
+.box11{
+	width: 243px;
+	height: 20px;
+	padding: 10px;
+}
+
+.box12{
+	width: 500px;
+	height: 20px;
+	padding: 10px;
+}
+
+#btn-send{
+	background: royalblue;
+	color: white;
+	font-size: 16px;
+	border: none;
+	margin-left: 200px;
+	padding: 10px;
+}
+
+.footer{
+	background: url("images/BG.png");
+	text-align: center;
+}
+
+.head2{
+	font-size: 50px;
+	color: whitesmoke;
+	width: 750px;
+	text-align: center;
+	margin-left: 300px;
+}
+
+#btn12{
+	text-decoration: none;
+	background: orange;
+	color: black;
+	padding: 14px;
+	border: none;
+	border-radius:10px;
+}
+
